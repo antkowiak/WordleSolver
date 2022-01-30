@@ -329,10 +329,6 @@ void WordleSolver::scoreWords()
 
 int WordleSolver::calculateMaxScore() const
 {
-    //std::vector<std::map<char, int>> m_scoreTable{};
-    //std::vector<std::string> m_candidateWords{};
-    //std::vector<std::pair<int, std::string>> m_scoredWords;
-
     int maxScore{ 0 };
 
     for (const auto& place : m_scoreTable)
