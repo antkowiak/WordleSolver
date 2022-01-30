@@ -1,5 +1,5 @@
 WordleSolver - Helps solve the daily Wordle puzzle from https://www.powerlanguage.co.uk/wordle/
-
+<pre>
 Usage: ws <options>
 
     -h or -?      - Display help
@@ -9,7 +9,7 @@ Usage: ws <options>
     -a <letters>  - Specify letters that should be absent from any solutions
     -c <guesses>  - Specify an index and letter pair for correctly positioned letters
     -w <guesses>  - Specify an index and letter pair for wrongly positioned letters
-
+</pre>
 ---
 
 Written by Ryan Antkowiak (antkowiak@gmail.com)
