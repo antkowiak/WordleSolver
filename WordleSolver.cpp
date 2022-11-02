@@ -1,5 +1,5 @@
 //
-// Written by Ryan Antkowiak (antkowiak@gmail.com)
+// Written by Ryan Antkowiak 
 // 2022-01-30
 //
 
